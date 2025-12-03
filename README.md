@@ -97,59 +97,6 @@ Seaborn 0.12+
 NumPy 1.24+
 ```
 
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/municipal-court-analysis.git
-cd municipal-court-analysis
-```
-
-2. **Create virtual environment**
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### Running the Analysis
-
-**Step 1: Initial Data Exploration**
-```bash
-python scripts/load_and_explore.py
-```
-
-**Step 2: Policy Analysis**
-```bash
-python scripts/policy_analysis.py
-```
-
-**Step 3: Comprehensive Analysis**
-```bash
-python scripts/comprehensive_analysis.py
-```
-
-**Step 4: Geographic Analysis**
-```bash
-python scripts/geographic_analysis.py
-```
-
-**Step 5: Generate Executive Materials**
-```bash
-python scripts/executive_materials.py
-```
-
-### Output Files
-
-All analysis outputs are saved to:
-- **CSV files:** `output/` directory
-- **Visualizations:** `visualizations/` directory
-- **Reports:** `reports/` directory
-
 ## 📈 Analysis Workflow
 ```mermaid
 graph TD
@@ -167,7 +114,7 @@ graph TD
     H --> J[Interactive Dashboard]
 ```
 
-## 📊 Sample Insights
+## Sample Insights
 
 ### Case Type Distribution
 ```
@@ -195,36 +142,6 @@ Non-Traffic (NT):   110 cases (0.6%)
 - **Primary Area:** Downtown Core (2,700+ cases)
 - **High-Intensity Zones:** 20 locations with 100+ cases each
 
-## 🌐 Interactive Web Dashboard
-
-Deploy the interactive dashboard on your website:
-
-1. **Install dependencies**
-```bash
-npm install lucide-react
-```
-
-2. **Copy component**
-```bash
-cp website/MunicipalCourtAnalysis.tsx src/components/
-```
-
-3. **Create page route**
-```typescript
-// pages/projects/municipal-court-analysis.tsx
-import MunicipalCourtAnalysis from '@/components/MunicipalCourtAnalysis';
-
-export default function Page() {
-  return <MunicipalCourtAnalysis />;
-}
-```
-
-4. **Test locally**
-```bash
-npm run dev
-# Visit: http://localhost:3000/projects/municipal-court-analysis
-```
-
 ## 📄 Data Dictionary
 
 | Field | Type | Description |
@@ -242,7 +159,7 @@ npm run dev
 | `Agency` | String | Enforcement agency |
 | `Officer Code` | Integer | Issuing officer ID |
 
-## 💼 Business Impact
+## Business Impact
 
 ### Financial Projections
 - **Parking Revenue:** $614,145 annually (maintained)
@@ -256,7 +173,7 @@ npm run dev
 - Free up court resources for complex cases
 - Enable comprehensive equity monitoring
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 **Technical:**
 - Complex data pipeline development
@@ -307,30 +224,30 @@ npm run dev
 - [ ] Optimization algorithms for resource allocation
 - [ ] Public transparency dashboard
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+## Author
 
 **Shahan**
 - Data Scientist & ML Engineer
 - Website: [shahanahmed.com](https://shahanahmed.com)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- Email: shahan24h@gmail.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Data provided by Austin Open Data Portal
 - Municipal court system stakeholders
 - Policy research community
 
-## 📞 Contact
+## Contact
 
 For questions, collaborations, or consulting inquiries:
-- 📧 Email: your.email@example.com
+- 📧 Email: shahan24h@gmail.com
 - 🌐 Website: [shahanahmed.com](https://shahanahmed.com)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/shahan24h)
 
 ---
 
