@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Shahan**
 - Data Scientist & ML Engineer
 - Website: [shahanahmed.com](https://shahanahmed.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/shahan24h](https://linkedin.com/in/yourprofile)
 - Email: shahan24h@gmail.com
 
 ## Acknowledgments
