@@ -247,7 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, collaborations, or consulting inquiries:
 - 📧 Email: shahan24h@gmail.com
 - 🌐 Website: [shahanahmed.com](https://shahanahmed.com)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/shahan24h)
+- 💼 LinkedIn: [shahan24h](https://linkedin.com/in/shahan24h)
 
 ---
 
